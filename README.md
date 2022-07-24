@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm skylooop, a researcher in computer vision and currently graduate student at Skoltech!</h2>
+<h2 align="center">Hi 👋, I'm skylooop, a researcher in computer vision and currently graduate student at Skoltech</h2>
 
 - I am mainly focus on DL approaches to computer vision (SLAM, 3D Image reconstruction)
 ### My skills
