@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm skylooop, a researcher in computer vision and currently graduate student at Skoltech</h2>
 
 - I am mainly focus on DL approaches to computer vision (SLAM, 3D Image reconstruction)
+- Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
 ### My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
