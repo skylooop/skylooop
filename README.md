@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Max, a researcher in Computer Vision field and currently graduate student at Skoltech</h2>
 
-- I am mainly focus on Imitation Reinforcement learning using Optimal Transport Theory and new approaches on 3D CV (SLAM, 3D Image reconstruction)
+- I am mainly focus on Generative Modeling, Imitation Reinforcement learning and new approaches to 3D CV (SLAM, 3D Image reconstruction)
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
 ### My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
