@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Max, a researcher in Computer Vision field and currently graduate student at Skoltech</h2>
+<h2 align="center">Hi 👋, I'm Max, a researcher in CV and RL fields and currently graduate student at Skoltech</h2>
 
 - I am mainly focus on Generative Modeling, Cross-Domain Imitation Reinforcement learning and new approaches to 3D CV (SLAM, NerF)
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
