@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Max, a researcher in CV and RL fields and currently graduate student at Skoltech</h2>
 
-- I am mainly focus on Generative Modeling, Cross-Domain Imitation Reinforcement learning and new approaches to 3D CV (SLAM, NerF)
+- I am mainly focus on Generative Modeling (Diffusion Models e.g Stable Diffusion), Cross-Domain Imitation Reinforcement learning and NerF)
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
 ### My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
