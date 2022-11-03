@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Max, a researcher in CV and RL fields and currently graduate student at Skoltech</h2>
+<h2 align="center">Hi 👋, I'm Max, a researcher in CV/Text2Image and RL fields and currently graduate student at Skoltech</h2>
 
 - I am mainly focus on Generative Modeling (Diffusion Models e.g Stable Diffusion), Cross-Domain Imitation Reinforcement learning and NerF)
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
