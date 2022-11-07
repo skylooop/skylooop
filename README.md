@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Max, a researcher in CV/Text2Image and RL fields and currently graduate student at Skoltech</h2>
 
-- I am mainly focus on Generative Modeling (Diffusion Models e.g Stable Diffusion), Cross-Domain Imitation Reinforcement learning with Optimal Transport
+- I am mainly focus on Generative Modeling (Diffusion Models e.g Stable Diffusion), Cross-Domain Imitation Reinforcement learning using Optimal Transport
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
 
 
