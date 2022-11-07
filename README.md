@@ -2,6 +2,10 @@
 
 - I am mainly focus on Generative Modeling (Diffusion Models e.g Stable Diffusion), Cross-Domain Imitation Reinforcement learning with Optimal Transport
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
+
+
+##Implemented papers:
+![MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)
 ### My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
