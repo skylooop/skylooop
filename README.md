@@ -4,7 +4,7 @@
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
 
 
-##Implemented papers:
+## Implemented papers:
 ![MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)
 ### My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
