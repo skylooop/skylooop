@@ -4,7 +4,7 @@
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
 
 
-## Below you can find implementations of different papers/methods used in generative modelling:
+## Some implementations of different papers/methods used in generative modelling:
 ## [MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)
 ## [Samplers for DM](https://github.com/skylooop/Diffusion-Samplers)
 ## My skills
