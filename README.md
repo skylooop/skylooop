@@ -4,7 +4,7 @@
 - Currently studying CUDA to leverage parallel computation paradigm of different popular DL/CV libraries
 
 
-## Implemented papers (Text2Img):
+## Below you can find implementations of different algorithms/architectures/methods from generative modelling:
 ## [MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)
 ## [Samplers for DM](https://github.com/skylooop/Diffusion-Samplers)
 ## My skills
