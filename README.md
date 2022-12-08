@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Max, working in CV, RL fields and currently graduate student at Skoltech</h2>
+<h2 align="center">Hi 👋, I'm Max, fascinated about CV, RL fields and currently graduate student at Skoltech</h2>
 
 - I am mainly focus on Generative Modeling (e.g Diffusion Models)
 - CUDA enjoyer 
