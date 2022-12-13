@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Max, fascinated about CV, RL fields and currently graduate student at Skoltech</h2>
 
-- I am mainly focus on Generative Modeling (e.g Diffusion Models) and exploring RL
+- I am mainly focus Computer Vision/Generative Modeling (e.g Diffusion Models) and exploring RL
 - CUDA enjoyer 
 
 
 ## Some implementations of different papers/methods used in generative modelling:
 ## [MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)
 ## [Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)
-## [Attention Series](https://github.com/skylooop/AttentionSeries)
+## [Attention Series](https://github.com/skylooop/AttentionSeries)(Improving attention impl) (WIP)
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
