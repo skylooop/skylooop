@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Max, fascinated about CV, RL fields and currently graduate student at Skoltech</h2>
 
 - I am mainly focus Computer Vision/Generative Modeling (e.g Diffusion Models) and exploring RL
-- CUDA enjoyer 
+- CUDA and JAX enjoyer 
 
 
 ## Some implementations of different papers/methods used in generative modelling:
