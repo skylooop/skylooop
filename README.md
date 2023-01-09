@@ -6,7 +6,9 @@
 
 ## Some implementations of different papers/methods used in generative modelling:
 ## [MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini) (Done, Unofficial implementation)
-## [Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)
+_Transforming semantics and mixing target text/input image to be more like text._
+## [Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers) (WIP)
+
 ## [Attention Series](https://github.com/skylooop/AttentionSeries)(Improving attention impl) (WIP)
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
