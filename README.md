@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Max, fascinated about CV, RL fields and currently graduate student at Skoltech</h2>
 
-- I am mainly focus Computer Vision/Generative Modeling (e.g Diffusion Models) and exploring RL
+- I am mainly focus Computer Vision/Generative Modeling (e.g Diffusion Models) and exploring Imitation Learning RL
 - CUDA and JAX enjoyer 
 
 
