@@ -4,7 +4,7 @@
 - CUDA and JAX enjoyer 
 
 
-## Some implementations of different papers/methods used in generative modelling:
+## Some implementations of different papers/methods can be seen below:
 ## [MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini) (Done, Unofficial implementation)
 _Transforming semantics and mixing target text/input image to be more like text._
 ## [Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers) (WIP)
