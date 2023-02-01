@@ -12,7 +12,7 @@ _Implementation of different samplers for diffusion models._
 ## [Attention Series](https://github.com/skylooop/AttentionSeries)(Improving attention impl) (WIP)
 _Trying to implement fast-attention papers._
 
-## [RL In Games]
+## [RL In Games](https://github.com/skylooop/RLGames_Playground)
 _Different implementations of RL algos in games_
 
 ## My skills
