@@ -11,6 +11,10 @@ _Transforming semantics and mixing target text/input image to be more like text.
 _Implementation of different samplers for diffusion models._
 ## [Attention Series](https://github.com/skylooop/AttentionSeries)(Improving attention impl) (WIP)
 _Trying to implement fast-attention papers._
+
+## [RL In Games]
+_Different implementations of RL algos in games_
+
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
