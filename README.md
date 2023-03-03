@@ -8,9 +8,9 @@
 - **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)**
 - **[Attention Series](https://github.com/skylooop/AttentionSeries)**
 - **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
-### Implementing papers section:
+### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
-### Research
+### :microscope: Research
 - **[Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research)**
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
