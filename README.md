@@ -1,15 +1,15 @@
 <h2 align="center">Hi 👋, I'm Max, fascinated about CV/NeRF, RL fields and currently graduate student at Skoltech</h2>
 
 - I am mainly focus Computer Vision/Generative Modeling (e.g Diffusion Models) and exploring Imitation Learning RL
-- CUDA and JAX enjoyer 
+- CUDA and JAX enjoyer
 
 
-### Some implementations of different papers/methods can be seen below:
-- **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)** (Done, Unofficial implementation)
+### :game_die: Playground section with different architectures and ideas:
 - **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)**
-- **[Attention Series](https://github.com/skylooop/AttentionSeries)**(Improving attention impl)
+- **[Attention Series](https://github.com/skylooop/AttentionSeries)**
 - **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
-
+### Implementing papers section:
+- **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 ### Research
 - **[Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research)**
 ## My skills
