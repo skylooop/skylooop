@@ -12,6 +12,7 @@
 - **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
 ### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
+- **[Stable Diffusion from scratch with CUDA kernels] (WIP)**
 ### :microscope: Research
 - **[Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research) (In progress)** 
 ## Things I know
