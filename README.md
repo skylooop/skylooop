@@ -6,14 +6,10 @@
 
 ## Some implementations of different papers/methods can be seen below:
 ## [MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini) (Done, Unofficial implementation)
-_Transforming semantics and mixing target text/input image to be more like text._
-## [Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers) (WIP)
-_Implementation of different samplers for diffusion models._
-## [Attention Series](https://github.com/skylooop/AttentionSeries)(Improving attention impl) (WIP)
-_Trying to implement fast-attention papers._
+## [Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)
+## [Attention Series](https://github.com/skylooop/AttentionSeries)(Improving attention impl)
 
 ## [RL In Games](https://github.com/skylooop/RLGames_Playground)
-_Different implementations of RL algos in games_
 
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
