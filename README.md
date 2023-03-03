@@ -5,10 +5,10 @@
 
 
 ### Some implementations of different papers/methods can be seen below:
-- **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini) (Done, Unofficial implementation)
-- **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)
-- **[Attention Series](https://github.com/skylooop/AttentionSeries)(Improving attention impl)
-- **[RL In Games](https://github.com/skylooop/RLGames_Playground)
+- **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)** (Done, Unofficial implementation)
+- **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)**
+- **[Attention Series](https://github.com/skylooop/AttentionSeries)**(Improving attention impl)
+- **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
 
 ## My skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
