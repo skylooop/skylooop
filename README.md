@@ -20,4 +20,4 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![WnB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
-![HF](https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg)
+![HF]("https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg ")
