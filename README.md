@@ -11,7 +11,7 @@
 ### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 ### :microscope: Research
-- **[Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research)**
+- **[Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research) (In progress)** 
 ## Things I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
