@@ -12,7 +12,7 @@
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 ### :microscope: Research
 - **[Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research)**
-## My skills
+## Things I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -20,3 +20,4 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![WnB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![HF](🤗)
