@@ -14,7 +14,7 @@
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 - **[Stable Diffusion from scratch with CUDA kernels] (WIP)**
 ### :microscope: Research & Papers
-- **[Optimal Transport Imitation Learning](https://github.com/skylooop/Diploma-MastersApplication/blob/main/AwardWinningGradFlows.pdfhttps://github.com/skylooop/CILOT-Research) (In progress)** 
+- **[Optimal Transport Imitation Learning](https://github.com/skylooop/Diploma-MastersApplication/blob/main/AwardWinningGradFlows.pdf) (In progress)** 
 - **[Gradient Flows in Wasserstein Spaces]()**
 ## Things I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
