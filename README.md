@@ -8,7 +8,6 @@
 ### :game_die: Playground section with different architectures and ideas:
 - **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)**
 - **[Papers implementations in JAX](WIP)**
-- **[CV/NLP/Text2img Playground](https://github.com/skylooop/Models-Playground)**
 - **[Generative models in JAX](https://github.com/skylooop/JeepAutoeXcoders)**
 - **[Attention Series](https://github.com/skylooop/AttentionSeries)**
 - **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
