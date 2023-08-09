@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Max, fascinated about CV/NeRF, RL fields and currently graduate student at Skoltech</h2>
 
-- I am mainly focus Computer Vision/Generative Modeling (e.g Diffusion Models) and exploring Imitation Learning RL
+- I am mainly focus LLMs/Generative Modeling (e.g Diffusion Models) & RL
 - Exploring new ways to accelerate deep learning operations
-- CUDA and JAX enjoyer
+- CUDA enjoyer
 
 
 ### :game_die: Playground section with different architectures and ideas:
