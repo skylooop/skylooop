@@ -7,9 +7,7 @@
 
 ### :game_die: Playground section with different architectures and ideas:
 - **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)**
-- **[Papers implementations in JAX](WIP)**
 - **[Generative models in JAX](https://github.com/skylooop/JeepAutoeXcoders)**
-- **[Attention Series](https://github.com/skylooop/AttentionSeries)**
 - **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
 ### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
