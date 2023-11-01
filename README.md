@@ -11,7 +11,7 @@
 - **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
 ### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
-- **[ICVF(Reinforcement Learning from Passive Data via Latent Intentions) in Equinox] (https://github.com/skylooop/ICVF-Equinox)**
+- **[ICVF(Reinforcement Learning from Passive Data via Latent Intentions) in Equinox](https://github.com/skylooop/ICVF-Equinox)**
 ### :microscope: Research & Papers
 - **[Cross Domain Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research) [In progress]** 
 - **[Gradient Flows in Wasserstein Spaces](https://github.com/skylooop/Diploma-MastersApplication/blob/main/AwardWinningGradFlows.pdf) [Award in Probability & Stats student papers competition]**
