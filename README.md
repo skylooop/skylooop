@@ -1,14 +1,10 @@
-<h2 align="center">Hi 👋, I'm Max, fascinated about CV/NeRF, RL fields and currently graduate student at Skoltech</h2>
+<h2 align="center">Hi 👋, I'm Max, fascinated about Foundational Models (NLP/CV) and RL fields. Currently graduate student at Skoltech</h2>
 
-- I am mainly focus LLMs/Generative Modeling (e.g Diffusion Models) & RL
-- Exploring new ways to accelerate deep learning operations
+- I am mainly focus on low bit precision LLMs inference/finetuning, Generative Modeling & RL
 - CUDA enjoyer
-
 
 ### :game_die: Playground section with different architectures and ideas:
 - **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)**
-- **[Generative models in JAX](https://github.com/skylooop/JeepAutoeXcoders)**
-- **[RL In Games](https://github.com/skylooop/RLGames_Playground)**
 ### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 - **[ICVF(Reinforcement Learning from Passive Data via Latent Intentions) in Equinox](https://github.com/skylooop/ICVF-Equinox)**
