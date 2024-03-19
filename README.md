@@ -9,7 +9,6 @@
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 - **[ICVF(Reinforcement Learning from Passive Data via Latent Intentions) in Equinox](https://github.com/skylooop/ICVF-Equinox)**
 ### :microscope: Research & Papers
-- **[Cross Domain Optimal Transport Imitation Learning](https://github.com/skylooop/CILOT-Research) [In progress]** 
 - **[Gradient Flows in Wasserstein Spaces](https://github.com/skylooop/Diploma-MastersApplication/blob/main/AwardWinningGradFlows.pdf) [Award in Probability & Stats student papers competition]**
 ## Things I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
