@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Max, fascinated about Foundational Models (NLP/CV) and RL fields. Currently graduate student at Skoltech</h2>
+<h2 align="center">Hi 👋, I'm Max, fascinated about Foundational Models (NLP/CV) and RL fields. PhD studenth</h2>
 
 - I am mainly focus on low bit precision LLMs inference/finetuning, Generative Modeling & RL
 - CUDA enjoyer
