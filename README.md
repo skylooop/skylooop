@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Max, fascinated about Foundational Models (NLP/CV) and RL fields. PhD studenth</h2>
+<h2 align="center">Hi 👋, I'm Max, fascinated about Foundational Models (NLP/CV) and RL fields. PhD student</h2>
 
 - I am mainly focus on low bit precision LLMs inference/finetuning, Generative Modeling & RL
 - CUDA enjoyer
@@ -8,7 +8,7 @@
 ### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 - **[ICVF(Reinforcement Learning from Passive Data via Latent Intentions) in Equinox](https://github.com/skylooop/ICVF-Equinox)**
-### :microscope: Research & Papers
+### :microscope: Research
 - **[ENOT: Expectile Regularization for Fast and Accurate Training of Neural Optimal Transport](https://skylooop.github.io/enot/) [NeurIPS 2024, Spotlight]**
 - **[Gradient Flows in Wasserstein Spaces](https://github.com/skylooop/Diploma-MastersApplication/blob/main/AwardWinningGradFlows.pdf) [Award in Probability & Stats student papers competition]**
 ## Things I know
