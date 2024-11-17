@@ -3,14 +3,16 @@
 - I am mainly focus on low bit precision LLMs inference/finetuning, Generative Modeling & RL
 - CUDA enjoyer
 
+### :microscope: Research
+- **[ENOT: Expectile Regularization for Fast and Accurate Training of Neural Optimal Transport](https://skylooop.github.io/enot/) [NeurIPS 2024, Spotlight]**
+- **[Gradient Flows in Wasserstein Spaces](https://github.com/skylooop/Diploma-MastersApplication/blob/main/AwardWinningGradFlows.pdf) [Award in Probability & Stats student papers competition]**
+
 ### :game_die: Playground section with different architectures and ideas:
 - **[Samplers for DiffusionModels](https://github.com/skylooop/Diffusion-Samplers)**
 ### :muscle: Implementing papers section:
 - **[MagicMix](https://github.com/skylooop/DiffusionModels/tree/master/MagicMix_mini)**
 - **[ICVF(Reinforcement Learning from Passive Data via Latent Intentions) in Equinox](https://github.com/skylooop/ICVF-Equinox)**
-### :microscope: Research
-- **[ENOT: Expectile Regularization for Fast and Accurate Training of Neural Optimal Transport](https://skylooop.github.io/enot/) [NeurIPS 2024, Spotlight]**
-- **[Gradient Flows in Wasserstein Spaces](https://github.com/skylooop/Diploma-MastersApplication/blob/main/AwardWinningGradFlows.pdf) [Award in Probability & Stats student papers competition]**
+- 
 ## Things I know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
